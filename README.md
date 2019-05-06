@@ -24,3 +24,16 @@ I think this not important, so I give up
 
 week7:
 add some extra description
+
+week8:
+nothing but midtern exam
+
+week9:
+because I've heard of these models before, so it's a kind of review
+
+week10:
+brainstorming on the final project(also the work of competition) 
+
+week11:
+complete the plan of project, including the process of analysis and using what model
+start working on the porject, my part is coordinating, some data processong, ML, and offer my powerful computer to others XD
