@@ -1,6 +1,13 @@
 # csx
 all files related to the data science class
 
+HW0: crawler to collect UDN news
+
+HW1: analysis of the tv news broadcast of 2018 election of mayor of Kaoshung 
+
+HW2: sentiment analysis of movie comments with randomforest and K-means
+
+
 week1:
 find out that I had a Github, and make a crawler(at first, trying to get the data from CNN, however, 
 after about three hours of dubugging, finally found out that CNN is not allowed to be crawled)
